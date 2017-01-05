@@ -1,0 +1,17 @@
+{
+  "run": [
+    {
+      "filePath": "/FioriPOC/index.html",
+      "previewMode": 0,
+      "dataMode": 1,
+      "workspace": "withoutWorkspace",
+      "urlParameters": [],
+      "_metadata": {
+        "runnerId": "webapprunner",
+        "id": 3065571,
+        "displayName": "New Web Application",
+        "lastRunTimeStamp": 1483611463403
+      }
+    }
+  ]
+}
